@@ -12,4 +12,4 @@ To address these research questions, the project ES-2 will build on the research
 The four sub-projects are given below:
 ![](/images/eco2download%20(1).png)
 
-[E2S2 Homepage](https://www.create.edu.sg/about-create/research-centres/e2s2)
+[E2S2 Homepage](https://staging.d1oc0a5mwkwsyb.amplifyapp.com/about-create/research-centres/e2s2/)
