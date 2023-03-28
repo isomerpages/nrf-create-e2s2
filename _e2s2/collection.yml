@@ -2,4 +2,4 @@ collections:
   e2s2:
     output: true
     order:
-      - folder-page.md
+      - E2S2.md
