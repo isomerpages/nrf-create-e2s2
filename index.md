@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: E2S2
 description: An Isomer site of the Singapore Government
 image: /images/logo.png
 permalink: /
@@ -29,5 +29,6 @@ sections:
       button: Button text
       url: /faq/
 ---
+
 
 
