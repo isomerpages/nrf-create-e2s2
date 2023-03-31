@@ -7,8 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: CNRS @ CREATE
+      subtitle: The French National Centre for Scientific Research (CNRS) partnership
+        with Campus for Research And Technological Enterprise (CREATE)
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
