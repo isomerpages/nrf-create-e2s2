@@ -1,0 +1,8 @@
+collections:
+  e2s2:
+    output: true
+    order:
+      - E2S2.md
+      - Eco Solutions 1 (ES1).md
+      - Eco Solutions 2 (ES2).md
+      - Our People.md
